@@ -8,5 +8,5 @@ export const personalData = {
   github: 'https://github.com/Surajsinh1622',
   facebook: 'https://www.facebook.com/surajsinh.solanki/',
   linkedIn: 'https://www.linkedin.com/in/surajsinh-solanki-00a7021bb/',
-  resume: "https://1drv.ms/b/s!AqFM36mSNAV8lWjHTntji8KIn-3G?e=HNr0gI"
+  resume: "https://1drv.ms/b/s!AqFM36mSNAV8lXG7DwQNBrLv_gNi?e=q7VckS"
 }
